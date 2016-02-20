@@ -12,7 +12,7 @@
 
 IDE使用
 
-用IntelliJ, 点击菜单上的 File -> Import Project... -> 选择本地该项目文件夹下的pom.xml 就可以导入成功。
+用IntelliJ, 点击菜单上的 File -> Import Project... -> 选择本地该项目文件夹下的 `build.gradle` 就可以导入成功。
 
 ## 准备环境
 
