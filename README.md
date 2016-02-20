@@ -12,7 +12,11 @@
 
 IDE使用
 
-用IntelliJ, 点击菜单上的 File -> Import Project... -> 选择本地该项目文件夹下的 `build.gradle` 就可以导入成功。
+在项目文件夹下用命令行执行:
+
+    ./gradlew idea
+
+用IntelliJ, 点击菜单上的 File -> Open Project... -> 选择本地该项目文件夹就可以导入成功。
 
 ## 准备环境
 
