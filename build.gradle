@@ -17,6 +17,7 @@ apply plugin: 'jetty'
 apply plugin: 'org.flywaydb.flyway'
 apply plugin: "jacoco"
 apply plugin: 'checkstyle'
+apply plugin: 'idea'
 
 test {
     beforeTest { descr ->
